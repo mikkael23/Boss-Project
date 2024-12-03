@@ -1,0 +1,6 @@
+D:\PainelFreeLoft\PainelFreeLoft\obj\Release\PainelFreeLoft.csproj.AssemblyReference.cache
+D:\PainelFreeLoft\PainelFreeLoft\obj\Release\PainelFreeLoft.Form1.resources
+D:\PainelFreeLoft\PainelFreeLoft\obj\Release\PainelFreeLoft.Form2.resources
+D:\PainelFreeLoft\PainelFreeLoft\obj\Release\PainelFreeLoft.Properties.Resources.resources
+D:\PainelFreeLoft\PainelFreeLoft\obj\Release\PainelFreeLoft.csproj.GenerateResource.cache
+D:\PainelFreeLoft\PainelFreeLoft\obj\Release\PainelFreeLoft.csproj.CoreCompileInputs.cache

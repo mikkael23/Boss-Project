@@ -1,0 +1,13 @@
+D:\PainelFreeLoft\PainelFreeLoft\bin\Debug\PainelFreeLoft.exe.config
+D:\PainelFreeLoft\PainelFreeLoft\bin\Debug\PainelFreeLoft.exe
+D:\PainelFreeLoft\PainelFreeLoft\bin\Debug\PainelFreeLoft.pdb
+D:\PainelFreeLoft\PainelFreeLoft\bin\Debug\Guna.UI2.dll
+D:\PainelFreeLoft\PainelFreeLoft\obj\Debug\PainelFreeLoft.csproj.AssemblyReference.cache
+D:\PainelFreeLoft\PainelFreeLoft\obj\Debug\PainelFreeLoft.Properties.Resources.resources
+D:\PainelFreeLoft\PainelFreeLoft\obj\Debug\PainelFreeLoft.csproj.GenerateResource.cache
+D:\PainelFreeLoft\PainelFreeLoft\obj\Debug\PainelFreeLoft.csproj.CoreCompileInputs.cache
+D:\PainelFreeLoft\PainelFreeLoft\obj\Debug\PainelFr.2E016878.Up2Date
+D:\PainelFreeLoft\PainelFreeLoft\obj\Debug\PainelFreeLoft.exe
+D:\PainelFreeLoft\PainelFreeLoft\obj\Debug\PainelFreeLoft.pdb
+D:\PainelFreeLoft\PainelFreeLoft\obj\Debug\PainelFreeLoft.Form1.resources
+D:\PainelFreeLoft\PainelFreeLoft\obj\Debug\PainelFreeLoft.Form2.resources

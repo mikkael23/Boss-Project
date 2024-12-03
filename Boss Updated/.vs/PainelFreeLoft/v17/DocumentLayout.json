@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MK\\Desktop\\Boss Updated\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A34F799-87A9-46E4-A7C8-E2C7C33B870A}|PainelFreeLoft\\PainelFreeLoft.csproj|c:\\users\\mk\\desktop\\boss updated\\painelfreeloft\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A34F799-87A9-46E4-A7C8-E2C7C33B870A}|PainelFreeLoft\\PainelFreeLoft.csproj|solutionrelative:painelfreeloft\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A34F799-87A9-46E4-A7C8-E2C7C33B870A}|PainelFreeLoft\\PainelFreeLoft.csproj|C:\\Users\\MK\\Desktop\\Boss Updated\\painelfreeloft\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A34F799-87A9-46E4-A7C8-E2C7C33B870A}|PainelFreeLoft\\PainelFreeLoft.csproj|solutionrelative:painelfreeloft\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 269,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MK\\Desktop\\Boss Updated\\PainelFreeLoft\\Form2.cs",
+              "RelativeDocumentMoniker": "PainelFreeLoft\\Form2.cs",
+              "ToolTip": "C:\\Users\\MK\\Desktop\\Boss Updated\\PainelFreeLoft\\Form2.cs [Design]",
+              "RelativeToolTip": "PainelFreeLoft\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:48:22.826Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\Desktop\\Boss Updated\\PainelFreeLoft\\Form2.cs",
+              "RelativeDocumentMoniker": "PainelFreeLoft\\Form2.cs",
+              "ToolTip": "C:\\Users\\MK\\Desktop\\Boss Updated\\PainelFreeLoft\\Form2.cs",
+              "RelativeToolTip": "PainelFreeLoft\\Form2.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwIEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:26:39.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.AssemblyReference.cache
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.Form1.resources
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.Form2.resources
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.Properties.Resources.resources
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.GenerateResource.cache
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.CoreCompileInputs.cache
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\PainelFr.2E016878.Up2Date
+D:\PainelFreeLoft\PainelFreeLoft\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
+D:\PainelFreeLoft\PainelFreeLoft\bin\x64\Release\Memory.xml
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.Fody.CopyLocal.cache
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.Fody.RuntimeCopyLocal.cache
+D:\PainelFreeLoft\PainelFreeLoft\bin\x64\Release\System.Diagnostics.EventLog.xml
+D:\PainelFreeLoft\PainelFreeLoft\bin\x64\Release\System.Security.Principal.Windows.xml
+D:\PainelFreeLoft\PainelFreeLoft\bin\x64\Release\System.ServiceProcess.ServiceController.xml
+D:\PainelFreeLoft\PainelFreeLoft\bin\x64\Release\TimerResolution.exe.config
+D:\PainelFreeLoft\PainelFreeLoft\bin\x64\Release\TimerResolution.exe
+D:\PainelFreeLoft\PainelFreeLoft\bin\x64\Release\TimerResolution.pdb
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\TimerResolution.exe
+D:\PainelFreeLoft\PainelFreeLoft\obj\x64\Release\TimerResolution.pdb
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\bin\x64\Release\AnyDesk.exe.config
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\bin\x64\Release\AnyDesk.exe
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\bin\x64\Release\AnyDesk.pdb
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\bin\x64\Release\Memory.xml
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\bin\x64\Release\System.Diagnostics.EventLog.xml
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\bin\x64\Release\System.Security.Principal.Windows.xml
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\bin\x64\Release\System.ServiceProcess.ServiceController.xml
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.AssemblyReference.cache
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.Form1.resources
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.Form2.resources
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.Properties.Resources.resources
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.GenerateResource.cache
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.CoreCompileInputs.cache
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFr.2E016878.Up2Date
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\AnyDesk.exe
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\AnyDesk.pdb
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.Fody.CopyLocal.cache
+D:\Rebola Boss\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\bin\x64\Release\AnyDesk.exe.config
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\bin\x64\Release\AnyDesk.exe
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\bin\x64\Release\AnyDesk.pdb
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\bin\x64\Release\Memory.xml
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\bin\x64\Release\System.Diagnostics.EventLog.xml
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\bin\x64\Release\System.Security.Principal.Windows.xml
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\bin\x64\Release\System.ServiceProcess.ServiceController.xml
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.AssemblyReference.cache
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.Form1.resources
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.Form2.resources
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.Properties.Resources.resources
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.GenerateResource.cache
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.CoreCompileInputs.cache
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFr.2E016878.Up2Date
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\AnyDesk.exe
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\AnyDesk.pdb
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\AnyDesk.exe.config
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\bin\x64\Release\Axe.Windows.Automation.xml
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\bin\x64\Release\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.Fody.CopyLocal.cache
+C:\Users\MK\Desktop\Boss Updated\PainelFreeLoft\obj\x64\Release\PainelFreeLoft.csproj.Fody.RuntimeCopyLocal.cache
